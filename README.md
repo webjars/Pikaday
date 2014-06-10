@@ -3,4 +3,4 @@ webjars-Pikaday
 
 WebJar for Pikaday
 
-Upstream: https://github.com/dbushell/Pikaday.git
+Upstream: https://github.com/dbushell/Pikaday
